@@ -1,0 +1,1 @@
+https://github.com/pavankumarindian/jenkins-sonarqube-java-pipeline/blob/main/src/main/webapp/images/banner_birds.gif?raw=true

@@ -1,0 +1,1 @@
+https://github.com/pavankumarindian/jenkins-sonarqube-java-pipeline/blob/main/src/site/resources/images/en.png?raw=true
