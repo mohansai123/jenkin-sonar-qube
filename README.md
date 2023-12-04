@@ -1,4 +1,3 @@
-# jenkin-sonar-qube
 MyBatis JPetStore
 =================
 
